@@ -1,0 +1,16 @@
+配置1-固定ua:
+- 打开 Shadowrocket 点软件主页右上角 ＋
+- 导入下面这个链接
+lua://bm9uZTpAY2xvdWRucHJveHkuYmFpZHUuY29tOjQ0Mw?remarks=Baidu-Direct-ua&path=Baidu-Direct-ua.lua&obfs=none
+- 导入后点击 Baidu-Direct-ua 编辑配置
+- 找到 File 点击打开，在新界面右上角 ＋
+- 输入下面的链接，并下载(Download)
+https://raw.githubusercontent.com/unexpecteds/Proxy/main/configuration/BaiduDirect-ua.lua
+- 下载成功后返回并启用即可
+
+
+配置2-固定Host:
+- 使用方法同配置1
+lua://bm9uZTpAY2xvdWRucHJveHkubi5zaGlmZW4uY29tOjQ0Mw?remarks=Baidu-Direct-host&path=Baidu-Direct-host.lua&obfs=none
+
+https://raw.githubusercontent.com/unexpecteds/Proxy/main/configuration/BaiduDirect-host.lua
